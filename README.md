@@ -1,3 +1,3 @@
 # ML-DL-Models
-MNIST Difgit classification using a CNN
-Wisconsin Breast pathology cancer (Benign or malignant tumor)
+1. MNIST Digit classification using a CNN
+2. Wisconsin Breast pathology cancer (Benign or malignant tumor)
